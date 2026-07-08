@@ -1,1 +1,3 @@
-aguanten los pinguinos amigo
+# Intro
+
+This is a proper readme
